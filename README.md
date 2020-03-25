@@ -1,6 +1,9 @@
 # web-dyna-td1
 Repository de base pour le TD1 (@pmorin14)
 
+## Déploiement web (Heroku)
+- Consulter https://web-dyna-td1.herokuapp.com
+
 ## Mise en place
 - Faire un [Fork de ce repository sur votre compte github](https://github.com/dyna-web-rt/web-dyna-td1/fork)
 
